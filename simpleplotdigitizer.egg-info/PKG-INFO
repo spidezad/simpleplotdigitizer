@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: simpleplotdigitizer
-Version: 0.0.2
+Version: 0.0.3
 Summary: A simple plot digitizer
 Home-page: https://github.com/spidezad/simpleplotdigitizer
 Author: Tan Kok Hua
 Author-email: kokhua81@gmail.com
 License: MIT
-Download-URL: https://github.com/spidezad/simpleplotdigitizer/tarball/0.0.2
+Download-URL: https://github.com/spidezad/simpleplotdigitizer/tarball/0.0.3
 Description: Simple Plot Digitizer
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
