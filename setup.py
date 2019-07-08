@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
-__version__ = ‘0.0.1’
+__version__ = '0.0.1'
 
 here = path.abspath(path.dirname(__file__))
 
@@ -18,13 +18,13 @@ install_requires = [x.strip() for x in all_reqs if 'git+' not in x]
 dependency_links = [x.strip().replace('git+', '') for x in all_reqs if x.startswith('git+')]
 
 setup(
-    name=‘simpleplotdigitizer’,
+    name='simpleplotdigitizer',
     version=__version__,
-    description=‘A simple plot digitizer’,
+    description='A simple plot digitizer',
     long_description=long_description,
-    url='https://github.com/spidezad/simpleplotdigitizer’,
+    url='https://github.com/spidezad/simpleplotdigitizer',
     download_url='https://github.com/spidezad/simpleplotdigitizer/tarball/' + __version__,
-    license=‘MIT’,
+    license='MIT',
     classifiers=[
       'Development Status :: 3 - Alpha',
       'Intended Audience :: Developers',

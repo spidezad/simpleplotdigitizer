@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+simpleplotdigitizer/__init__.py
+simpleplotdigitizer/basic.py
+simpleplotdigitizer.egg-info/PKG-INFO
+simpleplotdigitizer.egg-info/SOURCES.txt
+simpleplotdigitizer.egg-info/dependency_links.txt
+simpleplotdigitizer.egg-info/top_level.txt
